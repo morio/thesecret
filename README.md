@@ -1,10 +1,10 @@
 # Hi and welcome to The Secret game.
 
 ## Purpose:
-To help a group of people test their ideas against each other, fostering competition. Then switching to cooperative mode to find the best solution. The last move is to name what you've decided.
+To help a group of people test their ideas against each other, which fosters competition. Then switching to cooperative mode to find the most usable solution. The last move is to name what you've decided.
 
 ## Reason:
-I am bipolar I and loud and proud about it. It lets me focus intensely on a problem. I can, if I wanted literally work myself to death. I invented this game to tell my truths to a group of friends. I saw a larger use of the game, so I am releasing to the world under the creative commons licensing system. As this is a code repo site it also GPLed. Finally, copyleft is an old internet joke among the educated internet crew.
+I am bipolar and I am loud and proud about it. It lets me focus intensely on a problem. I can, if I wanted to, literally work myself to death. I invented this game to tell my truths to a group of friends, but the truth came out sooner than anticipated. I saw a larger use for this game, so I am releasing to the world under the creative commons licensing system. As this is a code repo site it also GPLed. Finally, copyleft is an old internet joke among the educated internet crew.
 
 ## The Rules:
 ### Begin:
@@ -42,7 +42,7 @@ Thank you,
 UCSB CE 2011
 
 Copyleft 2017, CC 4, GPL 3 
-
+https://wiki.creativecommons.org/wiki/Case_Studies/RIP:_A_Remix_Manifesto
 
 Further resources:
 https://goo.gl/Fs2Yu3
